@@ -14,8 +14,13 @@ Used TLC Trip Record Data Yellow and green taxi trip records include fields capt
 
 
 Programming Language - Python,SQL
+
 Google Cloud Platform
+
 Google Storage
+
 Compute Instance
+
 BigQuery
+
 Looker Studio
