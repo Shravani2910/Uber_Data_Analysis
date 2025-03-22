@@ -1,6 +1,8 @@
+Python
 Pandas
 Numpy
 Matplotlib
+SQL
 Looker
 GCP
 Mage
